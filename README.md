@@ -14,3 +14,6 @@ This system predicts change of opinion from text data on X(Twitter).
 ├── README.md  
 └── requirements.txt  
 </pre>
+
+
+## Run
